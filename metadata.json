@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Reading Breakthrough System",
+  "description": "A comprehensive learning application designed to help zero-base learners overcome reading barriers through sound-first decoding, high-frequency vocabulary building, and graded reading.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
